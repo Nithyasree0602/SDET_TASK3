@@ -34,6 +34,8 @@ Issue: get_user_by_id("nithya_sree") returned None.
 
 Fix:
 Updated sample_users.json to include:
+
+
 {
   "user_id": "nithya_sree",
   "name": "Nithya",
