@@ -41,6 +41,7 @@ Pytest couldn’t locate the `data_manager.py` module.
 import sys, os
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
+
 2. AssertionError – User not found
 Issue:
 get_user_by_id("nithya_sree") returned None.
@@ -75,4 +76,4 @@ Gained hands-on debugging experience for common Pytest errors.
 Applied clean code practices and modular test organization.
 
 ✅ Final Test Report
-5 passed, 0 failed, 0 warnings
+9 passed, 0 failed, 0 warnings
